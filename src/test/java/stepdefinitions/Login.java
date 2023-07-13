@@ -29,6 +29,7 @@ public class Login {
 		loginPage = homePage.selectLoginOption();
 
 		System.out.println("Hello World");
+		System.out.println("Java");
 
 	}
 
